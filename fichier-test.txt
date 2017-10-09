@@ -1,1 +1,1 @@
-j'écris du texte dans mon fichier test, puis je le modifie dans un commit
+j'Ã©cris du texte dans mon fichier test, puis je le modifie dans un commit, j'ajoute une modification en ligne
